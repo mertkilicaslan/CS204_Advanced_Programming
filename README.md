@@ -1,2 +1,2 @@
-# CS204_Advanced_Programming
-CS204 Assignments from Sabancı University SUMMER'21
+# CS204 Advanced Programming
+* This course aims to provide programming experience and to give advanced programming techniques. In this way, students would be more prepared to data structures and several other junior and senior level CS courses. CS204 is a prerequisite course for several CS courses including data structures. Thus, it is a must course for CS students and students who will take advanced CS courses. The programming language that will be used in this course is C++
